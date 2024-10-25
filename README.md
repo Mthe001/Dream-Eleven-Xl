@@ -44,3 +44,8 @@ Welcome to **Cricket Fantasy Team Builder**! This project allows users to assemb
 ├── players.json              # Data for the available players
 ├── README.md                 # This readme file
 └── package.json              # Project dependencies and scripts
+
+ 
+- **Important--
+- **Onething-made-mistake**:Available players component are outside of components folder ! 
+- **For notice-later**: as im new that's why i can't change the path again..
