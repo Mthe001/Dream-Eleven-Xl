@@ -2,7 +2,7 @@ import './SubscribeCard.css'
 
 function SubscribeCard() {
     return (
-        <div className='subscribe-container p-4 border-2 border-red-400 w-[70%] mx-auto'>
+        <div className='subscribe-container p-4 border-2 border-red-400 w-[60%]'>
 
             <div className='md:p-4 lg:p-4 p-1 m-1 md:m-4  lg:m-4 text-start lg:text-center md:text-center '>
                 <h2 className='text-gray-950 font-semibold  lg:text-4xl md:text-3xl text-l'>Subscribe to our Newsletter</h2>

@@ -5,7 +5,7 @@ import './Footer.css'
 const Footer = () => {
     return (
 
-        <div className='bg-slate-900 w-full flex items-center flex-col gap-2 lg:h-[550px] h-[900px]  md:h-[550px]  mt-40'>
+        <div className='bg-slate-900 w-full flex items-center  flex-col gap-2 lg:h-[550px] h-[900px]  md:h-[600px]  mt-40'>
 
             <SubscribeCard></SubscribeCard>
             <div className='flex  items-center justify-center mt-40'>
@@ -13,7 +13,7 @@ const Footer = () => {
                 <img className='w-[150px] mx-auto' src="/images/logo-footer.png" alt="footer iamge" />
             </div>
 
-            <div className='flex justify-between md:flex-row lg:flex-row flex-col  lg:gap-32 md:gap-36 items-center p-5'>
+            <div className='flex justify-between md:flex-row lg:flex-row flex-col  lg:gap-32 md:gap-1 items-center p-5'>
 
                 <div className='text-white flex flex-col p-5'>
                     <h3>
