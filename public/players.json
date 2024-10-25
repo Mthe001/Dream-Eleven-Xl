@@ -1,0 +1,110 @@
+[
+   {
+    "playerId": 1,
+    "name": "Alex Harper",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/LpXHCW0/alex-harper.jpg",
+    "role": {
+      "type": "Batsman"
+    },
+    "battingType": "Right-hand bat",
+    "bowlingType": "None",
+    "biddingPrice": 1400000
+  },
+   {
+    "playerId": 2,
+    "name": "Mitchel Marsh",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/LDTksYq/mitchel-marsh.png",
+    "role": {
+      "type": "All-rounder"
+    },
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm medium-fast",
+    "biddingPrice": 2100000
+  },
+   {
+    "playerId": 3,
+    "name": "Carlos Mendes",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/mbY9ShV/carlos-mendes.jpg",
+    "role": {
+      "type": "Bowler"
+    },
+    "battingType": "Right-hand bat",
+    "bowlingType": "Left-arm Fast",
+    "biddingPrice": 1600000
+  },
+   {
+    "playerId": 4,
+    "name": "Surya Kumar",
+    "country": "India",
+    "image": "https://i.ibb.co.com/DwZZYNs/surya-kumar.jpg",
+    "role": {
+      "type": "Batsman"
+    },
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1900000
+  },
+   {
+    "playerId": 5,
+    "name": "Robert Boult",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/HGbb2NW/robert-boult.jpg",
+    "role": {
+      "type": "Bowler"
+    },
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 2300000
+  },
+   {
+    "playerId": 6,
+    "name": "Jos Buttler",
+    "country": "England",
+    "image": "https://i.ibb.co.com/9Y6xtxG/jos-buttler.jpg",
+    "role": {
+      "type": "Wicketkeeper"
+    },
+    "battingType": "Right-hand bat",
+    "bowlingType": "None",
+    "biddingPrice": 1200000
+  },
+   {
+    "playerId": 7,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/RPNCSc1/babar-azam.jpg",
+    "role": {
+      "type": "Batsman"
+    },
+    "battingType": "Left-hand bat",
+    "bowlingType": "None",
+    "biddingPrice": 1800000
+  },
+   {
+    "playerId": 8,
+    "name": "Travis Head",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/X52Tvxh/travis-head.jpg",
+    "role": {
+      "type": "Wicketkeeper"
+    },
+    "battingType": "Left-hand bat",
+    "bowlingType": "None",
+    "biddingPrice": 2000000
+  },
+   {
+    "playerId": 9,
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/R4PhR6x/tasku.jpg",
+    "role": {
+      "type": "Bowler"
+    },
+    "battingType": "Right-hand bat",
+    "bowlingType": "Left-arm fast-bowler",
+    "biddingPrice": 2100000
+  }
+]
