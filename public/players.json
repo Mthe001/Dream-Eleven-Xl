@@ -9,7 +9,7 @@
     },
     "battingType": "Right-hand bat",
     "bowlingType": "None",
-    "biddingPrice": 1400000
+    "biddingPrice": 240000
   },
    {
     "playerId": 2,
@@ -21,7 +21,7 @@
     },
     "battingType": "Left-hand bat",
     "bowlingType": "Right-arm medium-fast",
-    "biddingPrice": 2100000
+    "biddingPrice": 70000
   },
    {
     "playerId": 3,
@@ -33,7 +33,7 @@
     },
     "battingType": "Right-hand bat",
     "bowlingType": "Left-arm Fast",
-    "biddingPrice": 1600000
+    "biddingPrice": 90000
   },
    {
     "playerId": 4,
@@ -45,7 +45,7 @@
     },
     "battingType": "Right-hand bat",
     "bowlingType": "Right-arm offbreak",
-    "biddingPrice": 1900000
+    "biddingPrice": 870000
   },
    {
     "playerId": 5,
@@ -57,7 +57,7 @@
     },
     "battingType": "Left-hand bat",
     "bowlingType": "Right-arm fast",
-    "biddingPrice": 2300000
+    "biddingPrice": 230000
   },
    {
     "playerId": 6,
@@ -69,7 +69,7 @@
     },
     "battingType": "Right-hand bat",
     "bowlingType": "None",
-    "biddingPrice": 1200000
+    "biddingPrice": 120000
   },
    {
     "playerId": 7,
@@ -81,7 +81,7 @@
     },
     "battingType": "Left-hand bat",
     "bowlingType": "None",
-    "biddingPrice": 1800000
+    "biddingPrice": 180000
   },
    {
     "playerId": 8,
@@ -93,7 +93,7 @@
     },
     "battingType": "Left-hand bat",
     "bowlingType": "None",
-    "biddingPrice": 2000000
+    "biddingPrice": 200000
   },
    {
     "playerId": 9,
@@ -105,6 +105,6 @@
     },
     "battingType": "Right-hand bat",
     "bowlingType": "Left-arm fast-bowler",
-    "biddingPrice": 2100000
+    "biddingPrice": 210000
   }
 ]

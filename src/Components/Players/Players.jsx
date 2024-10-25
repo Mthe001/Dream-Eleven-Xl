@@ -22,7 +22,9 @@ const Players = ({ handleAddToSelectedPlayer }) => {
                         player={player}
                         key={player.playerId}
                         handleAddToSelectedPlayer={handleAddToSelectedPlayer}
+
                     ></Player>)
+
                 }
             </div>
 

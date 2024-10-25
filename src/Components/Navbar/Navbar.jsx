@@ -1,9 +1,9 @@
+// Navbar.js
 import { IoMenuSharp } from "react-icons/io5";
+import PropTypes from 'prop-types';
 
-// coin function added should be there
-const Navbar = () => {
+const Navbar = ({ coins }) => {
     return (
-
         <div className="flex justify-between p-4">
             <div>
                 <img className="w-14" src="/images/logo.png" alt="logo of this website" />
@@ -18,16 +18,18 @@ const Navbar = () => {
                     <li>Teams</li>
                     <li>Schedules</li>
                 </div>
-
-                {/* coin function */}
                 <div>
-                    <button className="font-bold text-xl bg-gray-100 border-2 border-gray-600">0 Coin</button>
+                    <button className="font-bold text-xl bg-gray-100 border-2 border-gray-600">
+                        {coins} Coin
+                    </button>
                 </div>
             </ul>
-
-
         </div>
     );
+};
+
+Navbar.propTypes = {
+    coins: PropTypes.number.isRequired
 };
 
 export default Navbar;
