@@ -47,8 +47,12 @@ const Footer = () => {
 
                 </div>
 
-
             </div>
+            <div className='w-full text-center'>
+                <hr />
+                <h3 className='text-gray-300'>@2024 Your Company All Rights Reserved.</h3>
+            </div>
+
         </div>
 
     )
