@@ -1,7 +1,8 @@
 # 🏏 BPL-Dream-11
 
-Welcome to **Cricket Fantasy Team Builder**! This project allows users to assemble their dream 11 cricket team, manage their budget with virtual coins, and subscribe for the latest updates about cricket matches. The app is intuitive, responsive, and built with modern web technologies to enhance the user experience. 
+Welcome to **Cricket Fantasy Team Builder**! This project allows users to assemble their dream 11 cricket team, manage their budget with virtual coins, and subscribe for the latest updates about cricket matches. The app is intuitive, responsive, and built with modern web technologies to enhance the user experience.
 
+**Live URL**: [BPL-Dream-11](https://verdant-churros-8bd07f.netlify.app/)
 
 ---
 
@@ -24,6 +25,11 @@ Welcome to **Cricket Fantasy Team Builder**! This project allows users to assemb
 - **CSS Animations**: To create interactive elements like alert popups.
 - **Responsive Design**: Works perfectly on all device sizes, from mobile to desktop.
 
+## 💂️ Creator Info
+
+- **Email**: [mtheredwanulhaque@gmail.com](mailto:mtheredwanulhaque@gmail.com)
+- **Contact**: +8801614591672
+
 ## 📂 Project Structure
 
 ```bash
@@ -44,8 +50,12 @@ Welcome to **Cricket Fantasy Team Builder**! This project allows users to assemb
 ├── players.json              # Data for the available players
 ├── README.md                 # This readme file
 └── package.json              # Project dependencies and scripts
+```
 
- 
-- **Important--
-- **Onething-made-mistake**:Available players component are outside of components folder ! 
-- **For notice-later**: as im new that's why i can't change the path again..
+---
+
+## ⚠️ Important Notes
+
+- **One Mistake**: The `AvailablePlayers` component is outside of the `Components` folder!
+- **For Future Reference**: Since I'm new to this, I couldn't change the path again.
+
